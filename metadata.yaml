@@ -1,0 +1,36 @@
+_repo: The-Flying-U-Ranch_1206
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bower, B. M.
+    aliases:
+    - Sinclair, B. M. (Bertha Muzzy)
+    - Sinclair, Bertha Muzzy
+    birthdate: 1874
+    deathdate: 1940
+    gutenberg_agent_id: '275'
+    url: http://www.gutenberg.org/2009/agents/275
+description: Trailblazing female Western writer Bertha Muzzy Bower wrote a series
+  of pulse-pounding novels about the grizzled vaqueros and cowpokes who populated
+  the Flying U Ranch. This novel follows the crew as a territorial conflict emerges
+  with a neighboring group of sheep ranchers. Fleshed out with meticulous details
+  about the period and plenty of action, Flying U Ranch is a must-read for fans of
+  the genre.
+gutenberg_bookshelf: Western
+gutenberg_issued: '1998-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1206'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Cowboys -- Fiction'
+- !lcsh 'Ranch life -- Fiction'
+- !lcsh 'Montana -- Fiction'
+- !lcsh 'Western stories'
+- GITenberg
+title: The Flying U Ranch
+url: http://www.gutenberg.org/ebooks/1206
